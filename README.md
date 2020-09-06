@@ -9,6 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mgodf/dukascopy_forex_dl">
+    <img src="img/icons8-candlestick-chart-100.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">(Unofficial) Dukascopy Forex Downloader</h3>
@@ -89,3 +90,5 @@ python .\bi5-csv.py --in_file 'C:/Users/<user_name>/FXCACHE/'
 [license-url]: https://github.com/mgodf/dukascopy_forex_dl/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/michaeljaygodfrey/
+
+<a target="_blank" href="https://icons8.com/icons/set/candle-sticks">Candlestick Chart icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
