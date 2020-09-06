@@ -77,15 +77,15 @@ python .\bi5-csv.py --in_file 'C:/Users/<user_name>/FXCACHE/'
 ```
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/mgodf/dukascopy_forex_dl.svg?style=flat-square
 [contributors-url]: https://github.com/mgodf/dukascopy_forex_dl/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/mgodf/dukascopy_forex_dl.svg?style=flat-square
 [forks-url]: https://github.com/mgodf/dukascopy_forex_dl/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/mgodf/dukascopy_forex_dl.svg?style=flat-square
 [stars-url]: https://github.com/mgodf/dukascopy_forex_dl/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/mgodf/dukascopy_forex_dl.svg?style=flat-square
 [issues-url]: https://github.com/mgodf/dukascopy_forex_dl/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/mgodf/dukascopy_forex_dl.svg?style=flat-square
 [license-url]: https://github.com/mgodf/dukascopy_forex_dl/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/michaeljaygodfrey/
